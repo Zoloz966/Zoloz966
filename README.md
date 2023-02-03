@@ -2,22 +2,22 @@
 
 -----------------------------------------------------------------
 
-#### I'm Full Stack Developer también conocido como Zoloz966 🧑‍💻
+#### I'm Full Stack Developer aka Zoloz966 🧑‍💻
 
-### ¿Quién soy?
+### Who I am?
 
 -------------------------
-🔴Desarrollador proactivo con experiencia como Full stack con orientación hacia el front end. Confío plenamente en mis habilidades sobre mi capacidad de gestionar mis proyectos Web design de principio a fin.
+🔴Proactive developer with experience as Full stack with front end orientation. I am fully confident in my abilities regarding my ability to manage my Web design projects from start to finish.
 
-### ¿Porqué yo?
+### Why me?
 
 ---------------------------------------
-🟡Soy una persona muy proactiva y autodidacta, con muchas habilidades técnicas especialmente sobre desarrollo, y otra habilidades complementarias de diseño, marketing y atención al cliente. Siempre dispuesto a enseñar y aprender de los demás. 
+🟡I am a very proactive and self-taught person, with many technical skills, especially development, and other complementary skills in design, marketing and customer service. Always willing to teach and learn from others.
 
-### ¿Cuál es mi objetivo?
+### Which is my goal?
 
 ------------------------------------------------------
-🔸La programación siempre fue algo que me fascino, brindar valor con mis habilidades en código me apasiona a seguir en la busqueda de una experiencia laboral
+🔸Programming has always been something that fascinated me, providing value with my coding skills makes me passionate to continue in search of work experience
 
 ### Tech Skills
 
@@ -27,7 +27,7 @@
 
 
 
-### Contáctame!!
+### Contact!!
 
 ----------------------------------
 * 📱: +591 72356291 || wa.link/rczz2e
